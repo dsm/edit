@@ -2,7 +2,7 @@
 name = "edit"
 version = "1.2.0"
 edition = "2021"
-rust-version = "1.83"
+rust-version = "1.82"
 readme = "README.md"
 repository = "https://github.com/microsoft/edit"
 homepage = "https://github.com/microsoft/edit"
